@@ -6,4 +6,4 @@
 
 
 # Opgave 3:
-# Bepaal het gemiddelde cijfer per vak uit het bovengenoemde csv-bestand met behaalde cijfers.
+# Maak een programma waarbij je de naam van een vriend invoert en het programma de gegevens van die vriend
